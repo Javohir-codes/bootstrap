@@ -1,0 +1,99 @@
+.nav-top-link {
+    font-size: 14px;
+    text-decoration: none;
+    color: gray;
+}
+.header-div-nav-top {
+    display: flex;
+    justify-content: space-around;
+    background-color: #1E212C;
+    color: gray;
+    align-items: center;
+}
+.div-nav-top-language {
+    display: flex;
+    align-items: center;
+    width: 250px;
+    justify-content: space-between;
+}
+nav {
+    display: flex;
+    justify-content: space-around;
+    margin: 30px 0px;
+    align-items: center;
+}
+.nav-sale-link {
+    color: #FF4242;
+}
+.header-nav-div-input {
+    display: flex;
+    width: 300px;
+    padding: 10px 0px;
+    justify-content: space-around;
+    border: 1px solid #D7DADD;
+}
+.header-nav-div-menu {
+    display: flex;
+    align-items: center;
+    width: 100px;
+    justify-content: space-between;
+}
+.header-div-info {
+    background-color: #17696A;
+    padding: 10px 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.header-div-info-h3 {
+    color: #FFFFFF;
+    font-size: 15px;
+}
+.header-div-info-link {
+    color: #FFFFFF;
+    text-decoration-color: white;
+    text-decoration-line: underline;
+    text-decoration-style: solid;
+}
+h1 {
+    color: #1E212C;
+    font-size: 70px;
+}
+h2 {
+    text-transform: uppercase;
+    color: #1E212C;
+    font-size: 20px;
+}
+.header-button {
+    font-size: 15px;
+    padding: 15px 20px;
+    color: #17696A;
+    border: 1px solid #17696A;
+    border-radius: 5px;
+    background-color: inherit;
+}
+.header-section {
+    background-image: url("../imgs/5ae226c1af64d15832c9203ba037bfeb88019404.jpg");
+    padding: 100px 0px;
+}
+.header-button:hover {
+    background-color: #17696A;
+    color: white;
+}
+.header-section-div {
+    color: gray;
+    width: 150px;
+    border-bottom: 2px solid gray;
+}
+.header-section-div:hover {
+    color: #424551;
+    border-bottom: 2px solid #424551;
+}
+.section-header-number {
+    font-size: 28px;
+}
+.header-section-main-div {
+    display: flex;
+    justify-content: space-between;
+    width: 670px;   
+}
