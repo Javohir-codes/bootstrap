@@ -430,7 +430,6 @@ h2 {
     justify-content: space-between;
     align-items: center;
     width: 100%;
-    padding: 0px 100px;
 }
 .section-register-h3 {
     font-size: 45px;
@@ -536,4 +535,74 @@ footer {
     margin-top: 30px;
     padding: 20px 100px;
     border-top: 1px solid gray;
+}
+main {
+    padding: 0px 100px;
+}
+.section-shop {
+    padding-bottom: 250px;
+}
+.section-shop-div-categories {
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    padding-top: 30px;
+}
+.section-shop-div-categories-text-1 {
+    font-size: 15px;
+    margin: 0;
+}
+.section-shop-div-categories-text {
+    color: #9A9CA5;
+    font-size: 15px;
+    margin: 0;
+}
+.section-shop-navigation-div {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    margin-top: 50px;
+}
+.section-shop-navigation-div-product {
+    margin-bottom: 0;
+    margin-left: 20px;
+    color: #787A80;
+}
+.section-shop-navigation-div-span-1 {
+    color: #17696A;
+}
+.section-shop-main-div {
+    width: 255px;
+    margin-top: 50px;
+}
+.section-shop-main-div-input {
+    color: #9A9CA5;
+    font-size: 15px;
+    border: none;
+}
+.section-shop-main-div-span {
+    color: #9A9CA5;
+}
+.section-shop-main-div-main {
+    display: flex;
+    justify-content: space-between;
+}
+.section-shop-main-div-2 {
+    display: flex;
+    width: 900px;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.section-shop-main-div-div-1 {
+    display: flex;
+    justify-content: space-between;
+    width: 25%;
+    align-items: center;
+}
+.section-shop-main-div-div-2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 35%;
 }
